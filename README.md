@@ -1,4 +1,5 @@
 ### Hi there 👋
+ㅇ
 
 ## Introduction
 안녕하세요. 컴퓨터공학에 대해 공부하고 있습니다.
