@@ -11,4 +11,9 @@
 
 
 ## Projects
-- none
+- medimap (Web) [⤴](https://github.com/jinupark0708/MediMap)
+    - 약 정보 확인 및 추적 서비스
+- dodojob (App) [⤴](https://github.com/jinupark0708/dodojob)
+    - 시니어 인재 채용 관리 서비스
+- 내집 (Web) [⤴](https://github.com/jinupark0708/real-estate-hub-project)
+    - 부동산 시세 분석 및 매칭 웹 서비스
