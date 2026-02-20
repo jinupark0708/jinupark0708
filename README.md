@@ -1,14 +1,38 @@
-# Hi there 👋
-
-## Introduction
-안녕하세요. 컴퓨터공학에 대해 공부하고 있습니다. 
-
-## Career
-- 영남대학교 컴퓨터공학전공 학부생
-
-## Links
-- E-mail - jinupark0708@gmail.com 
+<div align="center">
+   
+   ### 🪴Hi, there! 
 
 
-## Projects
-- none
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/lnahyun"
+  width="500"
+  height="300"
+/>
+</a>
+<br>
+
+## 
+
+<br>
+<p align="center"><b>💭 Tech Stack</b></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker&theme=light"/>
+</p>
+
+<br>
+<p align="center"><b>📧 Connect</b></p>
+
+<p align="center">
+  <a href="mailto:jin0708x@naver.com">
+    jin0708x@naver.com
+  </a>
+</p>
+
+
+</div>
